@@ -1,5 +1,4 @@
-@@ -1 +1,58 @@
-# Book-Recommendation-System
+
 # Book-Recommendation-System
 These project is part of the “Machine Learning &Advanced Machine Learning” curriculum as capstone projects at [AlmaBetter](https://www.almabetter.com/). 
 
